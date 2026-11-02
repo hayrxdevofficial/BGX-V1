@@ -1,4 +1,4 @@
-Welcome to BGX-V1!
+# Welcome to BGX-V1!
 
 its a ideal free tool to give your background be better on your pc!
 
